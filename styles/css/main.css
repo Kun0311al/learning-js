@@ -1,7 +1,7 @@
 /* Variabes */
 /* Mixin's */
 body {
-  background: #c3ff00ec;
+  background: #ffa600;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   height: 100%;
 }
@@ -9,7 +9,7 @@ body {
 .wrapper {
   width: 800px;
   margin: 30px auto;
-  color: #000;
+  color: #fff;
   text-align: center;
 }
 
@@ -27,9 +27,9 @@ h1, h2, h3 {
 button {
   border-radius: 5px;
   -khtml-border-radius: 5px;
-  background: #c3ff00ec;
-  color: #000;
-  border: solid 1px #000;
+  background: #ffa600;
+  color: #fff;
+  border: solid 1px #fff;
   text-decoration: none;
   cursor: pointer;
   font-size: 1.2em;
@@ -42,8 +42,8 @@ button {
 button:hover {
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
-  background: #000;
-  border: solid 1px #000;
-  color: #c3ff00ec;
+  background: #fff;
+  border: solid 1px #fff;
+  color: #ffa600;
 }
 /*# sourceMappingURL=main.css.map */
